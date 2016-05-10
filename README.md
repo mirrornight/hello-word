@@ -1,2 +1,2 @@
 # hello-word
-just for learning git
+hi humans,I'm a new learner
